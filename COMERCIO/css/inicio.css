@@ -1,0 +1,20 @@
+.inicio{
+}
+
+.navbar-brand{
+    font-size: 1.3rem;
+    color:lavender;
+}
+
+.nav-link{
+    margin-right: 10px;
+    margin-left: 10px;
+    color:lavender;
+}
+
+.navbar{
+    background-color:#CCB28D;
+}
+.py-4{
+    text-align: center;
+}

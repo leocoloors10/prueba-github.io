@@ -1,0 +1,67 @@
+/* Imagen principal */
+.inicio {
+  }
+  
+  /* Tamaño del color del Logo */
+  .navbar-brand {
+    font-size: 1.3rem;
+    color: lavender;
+  }
+  
+  .nav-link {
+    margin-right: 10px;
+    margin-left: 10px;
+    color: lavender;
+  }
+  
+  /* Color del fondo del Navbar */
+  .navbar {
+    background-color: #696969;
+  }
+  
+  /* Características de los Nav-item */
+  .nav-item {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  /* Color de fondo de las tarjetas */
+  .card {
+    background-color: #24201860;
+  }
+  
+  /* Texto de las tarjetas */
+  .card-text {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 60px;
+    text-align: center;
+  }
+  .politicas {
+    background-color: #edcfa4;
+    text-align: center;
+  }
+  
+  /* Estilo específico para las tarjetas */
+  .card {
+    .card-title{
+      font-size: 30px;
+    }
+    width: 18rem;
+    font-size: 15px; /* Added "rem" unit */
+    color: rgb(19, 10, 10);
+  }
+  body {
+    background-color: #ebebeb; /* Cambia este valor al color de fondo que desees */
+    color: #ffffff; /* Cambia el color del texto para que sea legible en el fondo oscuro */
+    background-position: center;
+  }
+  .leoxd {
+    font-size: 30px;
+  }
+  .card-body {
+    text-align: center;
+  }
+.py-4{
+  text-align: center;
+  background-color: rgb(177, 177, 182);
+}
